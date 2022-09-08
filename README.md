@@ -1,4 +1,4 @@
-# wso2-is-adaptive-scripts
+# WSO2 Identity Server Adaptive Authentication Scripts
 This repository contains adaptive authentication scripts for authentication scenarios in WSO2 Identity Server that I have used to build POC's and test use cases for clients while working at WSO2.
 
 ## List of Available Scripts
